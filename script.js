@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 5511999999999
             */
 
-            const dentistWhatsApp = "11 972364121";
+            const dentistWhatsApp = "5511965061125";
 
 
             let whatsappMessage =
@@ -318,7 +318,7 @@ document.addEventListener("DOMContentLoaded", () => {
             new Date().getFullYear();
 
         footerTexts[0].innerHTML =
-            `© ${currentYear} Dra. Carla Odontologia. Todos os direitos reservados.`;
+            `© ${currentYear} Dra. Carla Ghetti Odontologia. Todos os direitos reservados.`;
 
     }
 
