@@ -15,7 +15,9 @@
     --container: 1180px;
     --radius: 18px;
 }
-
+body {
+    background: red !important;
+}
 
 /* =========================
    RESET
